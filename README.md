@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Full-Stack Web Development<br>I'm a final year B.Tech CSE undergrad<br>I'm currently working on Scalable Authentication Backend System<br>I'm looking for internship opportunities to develop strong skills<br>I'm also fond of learning about system architecture
+I'm currently learning Full-Stack Web Development<br>I'm a final year B.Tech CSE undergrad<br>I'm currently working on Distributed Event Ticket Booking Backend System<br>I'm looking for internship opportunities to develop strong skills<br>I'm also fond of learning about system architecture
 
 
 ## 🌐 Socials:
